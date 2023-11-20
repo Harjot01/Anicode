@@ -18,10 +18,7 @@ const Home = () => {
     <>
       <Head>
         <title>Anicode - Coding Through Animations</title>
-        <meta
-          name="description"
-          content="Nextly is a free landing page template built with next.js & Tailwind CSS"
-        />
+      
         {/* <link rel="icon" href="/favicon.ico" /> */}
       </Head>
 
